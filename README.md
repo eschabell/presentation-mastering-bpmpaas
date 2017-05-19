@@ -1,3 +1,3 @@
 Mastering bpmPaaS (London JBoss MW Event)
 -----------------------------------------
-![Cover Slide](https://raw.githubusercontent.com/eschabell/presentation-mastering-bpmpaas/master/cover.png)
+![Cover Slide](https://github.com/masteringxpaas/presentation-mastering-bpmpaas/blob/master/cover.png)
